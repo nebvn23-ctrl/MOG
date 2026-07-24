@@ -22,7 +22,7 @@ export const LINKS = {
   x: "https://x.com/MOGtheMOGGED",
   telegram: "[TELEGRAM_LINK]",
   buy: "[BUY_LINK]",
-  contractAddress: "HdFKhcNEKh1iM1do6iMUn3rdE5cH4MLrpSTU6i9Hpump",
+  contractAddress: "BqrSryu8CZG6KWVgqPREWQCUWww3FHr1hFDKaM2npump",
 };
 
 /** Un link e „real" doar dacă nu mai e un placeholder de forma [ceva]. */
