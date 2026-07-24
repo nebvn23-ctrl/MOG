@@ -19,10 +19,10 @@ export const SITE = {
 // Orice câmp lăsat între paranteze drepte rămâne automat pe "COMING SOON".
 // ----------------------------------------------------------------------------
 export const LINKS = {
-  x: "[X_LINK]",
+  x: "https://x.com/MOGtheMOGGED",
   telegram: "[TELEGRAM_LINK]",
   buy: "[BUY_LINK]",
-  contractAddress: "[CONTRACT_ADDRESS]",
+  contractAddress: "6A2Mic1VdFLcxQfQFr5jDCnxaAx4LULgajtN4NZzpump",
 };
 
 /** Un link e „real" doar dacă nu mai e un placeholder de forma [ceva]. */
