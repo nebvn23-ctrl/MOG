@@ -19,7 +19,7 @@ export const SITE = {
 // Orice câmp lăsat între paranteze drepte rămâne automat pe "COMING SOON".
 // ----------------------------------------------------------------------------
 export const LINKS = {
-  x: "https://x.com/MOGtheMOGGED",
+  x: "https://x.com/MogTheMoggedSol",
   telegram: "[TELEGRAM_LINK]",
   buy: "[BUY_LINK]",
   contractAddress: "HEGMTf9WZfHbskbJo9GrCQG1ycmdbzN7ZrdjwP7hpump",
